@@ -2,4 +2,4 @@
 
 Clone the project
 
-See `README.md` under each folder `be` and `fe`.
+See `README.md` under folders `/be` and `/fe`.
