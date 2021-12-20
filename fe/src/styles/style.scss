@@ -1,0 +1,17 @@
+@import "vue-select/src/scss/vue-select.scss";
+
+$vs-dropdown-max-height: 100px;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+.app-container {
+  grid-template-columns: auto 1fr;
+}
+
+.vs__dropdown-menu {
+  max-height: 200px;
+}
